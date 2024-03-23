@@ -7,3 +7,4 @@
 - **_Stack accede a variables locales solo mientras que Heap le permite acceder a variables globalmente._**
 - **_Las variables de pila no se pueden cambiar de tamaño, mientras que las variables de montón se pueden cambiar dicho tamaño._**
 - **_La memoria de pila se asigna en un bloque contiguo, mientras que la memoria de pila se asigna en cualquier orden aleatorio._**
+- Stack no requiere desasignar variables, mientras que en Heap sí se necesita desasignar éstas.
