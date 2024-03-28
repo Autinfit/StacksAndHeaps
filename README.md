@@ -6,7 +6,7 @@
 - **_"Heap" memory will never be fragmented, while "heap" memory can become fragmented when memory blocks are first allocated and then freed._**
 - **_"Stack" accesses local variables only while "Heap" allows you to access variables globally._**
 - **_"Stack" variables cannot be resized, while "heap" variables can be resized._**
-- Heap memory is allocated in a contiguous block, while heap memory is allocated in any random order.
+- "Heap" memory is allocated in a contiguous block, while heap memory is allocated in any random order.
 
 **_Traducido del español:_**
 
