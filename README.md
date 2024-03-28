@@ -1,5 +1,7 @@
 # StacksAndHeaps
 
+Traducido del español:
+
 ## Diferencia clave entre la memoria de pila y de montón
 
 - **_"Stack" es una estructura de datos lineal, mientras que "Heap" es una estructura de datos más alta._**
