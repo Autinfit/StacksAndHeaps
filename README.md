@@ -1,6 +1,6 @@
 # StacksAndHeaps
 
-Key Difference Between Stack and Heap Memory
+## Key Difference Between Stack and Heap Memory
 
 **_Traducido del español:_**
 
