@@ -3,7 +3,7 @@
 ## Key Difference Between Stack and Heap Memory
 
 - **_"Stack" is a linear data structure, while "Heap" is a higher data structure._**
-- _Heap memory will never be fragmented, while heap memory can become fragmented when memory blocks are first allocated and then freed._
+- **_Heap memory will never be fragmented, while heap memory can become fragmented when memory blocks are first allocated and then freed._**
 
 **_Traducido del español:_**
 
