@@ -5,7 +5,7 @@
 - **_"Stack" is a linear data structure, while "Heap" is a higher data structure._**
 - **_Heap memory will never be fragmented, while heap memory can become fragmented when memory blocks are first allocated and then freed._**
 - **_"Stack" accesses local variables only while "Heap" allows you to access variables globally._**
-- Stack variables cannot be resized, while heap variables can be resized.
+- _Stack variables cannot be resized, while heap variables can be resized._
 
 **_Traducido del español:_**
 
