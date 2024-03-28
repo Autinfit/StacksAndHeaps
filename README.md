@@ -2,7 +2,7 @@
 
 ## Key Difference Between Stack and Heap Memory
 
-"Stack" is a linear data structure, while "Heap" is a higher data structure.
+- "Stack" is a linear data structure, while "Heap" is a higher data structure.
 
 **_Traducido del español:_**
 
