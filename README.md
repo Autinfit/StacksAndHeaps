@@ -1,6 +1,6 @@
 # StacksAndHeaps
 
-_Traducido del español:_
+**_Traducido del español:_**
 
 ## Diferencia clave entre la memoria de pila y de montón
 
