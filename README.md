@@ -23,3 +23,5 @@
 - **_La asignación y desasignación de la pila se realizan mediante instrucciones del compilador, mientras que la asignación y desasignación del montón las realiza el programador._**
 
 ## Otras diferencias asociadas a Stack y Heap
+
+son estructuras de datos distintas pero, a veces, puede llegar a ser complicado identificar sus diferencias, principalmente cuando recién aprendes programación. En esta entrada te explicaré de forma breve las diferencia entre ambas estructuras de datos.
