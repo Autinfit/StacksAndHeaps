@@ -25,3 +25,5 @@
 ## Otras diferencias asociadas a Stack y Heap
 
 **_Son estructuras de datos distintas pero, a veces, puede llegar a ser complicado identificar sus diferencias, principalmente cuando recién aprendes programación. En esta entrada te explicaré de forma breve las diferencia entre ambas estructuras de datos._**
+
+La pila de llamadas (call stack)
