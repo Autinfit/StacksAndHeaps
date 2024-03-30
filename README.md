@@ -33,3 +33,5 @@
 **_Se llama pila de ejecución porque es una estructura de datos que funciona bajo el concepto de LIFO (last in first out). Esto hace que sea más sencillo mantener el control de los bloques que deben ser liberados, puesto que será aquel que esté en el tope de la pila._**
 
 **_Pueden existir múltiples pilas de ejecución en un programa cuando este es multihilo; cada hilo tiene su propia pila con la que mantendrá el control de sus llamadas a funciones._**
+
+![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/40786d04-df4c-40cb-b740-30586e0d339a)
