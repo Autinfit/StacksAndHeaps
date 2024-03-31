@@ -36,4 +36,4 @@
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/40786d04-df4c-40cb-b740-30586e0d339a)
 
-El heap (almacenamiento libre)
+### El heap (almacenamiento libre)
