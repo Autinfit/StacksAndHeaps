@@ -63,4 +63,4 @@ int main(){
   return 0;
 }
 ```
-_Ejemplo de salida:_
+**_Ejemplo de salida:_**
