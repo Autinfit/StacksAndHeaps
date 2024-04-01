@@ -46,4 +46,4 @@
 
 ## Ejemplo de heap vs stack
 
-Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan la pila y el heap:
+Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan el stack y el heap:
