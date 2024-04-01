@@ -22,7 +22,8 @@
 
 **_Multiple execution stacks can exist in a program when it is multithreaded; Each thread has its own stack with which it will maintain control of its function calls._**
 
-![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/40786d04-df4c-40cb-b740-30586e0d339a)
+![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/9000bb50-38a4-4635-b9e2-99dd074e1d91)
+
 
 **_Traducido del español:_**
 
