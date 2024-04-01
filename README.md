@@ -43,3 +43,5 @@
 **_Como esta estructura de datos no sigue ninguna metodología, es un poco complicado mantener el control de los bloques de memoria reservados puesto que se pueden ocupar y liberar espacios en cualquier momento._**
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/6180a7d5-4014-4d91-a43b-49f597ff3f76)
+
+Ejemplo de heap vs stack
