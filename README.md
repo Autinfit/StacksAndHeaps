@@ -66,3 +66,5 @@ int main(){
 **_Ejemplo de salida:_**
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/c2e28004-b9d3-4594-8093-2dc999c02308)
+
+Explicación: La variable c nos permite mostrar la pila porque es declarada como variable interna en cada recursión de foo(). El apuntador *ptr nos permite visualizar el heap porque utilizamos malloc() para reservar memoria dinámicamente durante la ejecución del programa. Que las direcciones de memoria incrementen o disminuyan depende de la arquitectura del equipo con el que trabajes.
