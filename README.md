@@ -47,3 +47,17 @@
 ## Ejemplo de heap vs stack
 
 **_Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan el stack y el heap:_**
+
+#include <stdio.h>
+#include <stdlib.h>
+void foo(int valor) {
+  unsigned char c;
+  unsigned char *ptr = malloc(1);
+  printf("Stack: %p | Heap: %p\n", &c, ptr);
+  if(valor <= 0) return;
+  foo(valor - 1);
+}
+int main(){
+  foo(10);
+  return 0;
+}
