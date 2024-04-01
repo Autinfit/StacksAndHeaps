@@ -64,3 +64,5 @@ int main(){
 }
 ```
 **_Ejemplo de salida:_**
+
+![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/c2e28004-b9d3-4594-8093-2dc999c02308)
