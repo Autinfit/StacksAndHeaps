@@ -48,6 +48,7 @@
 
 **_Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan el stack y el heap:_**
 
+```
 #include <stdio.h>
 #include <stdlib.h>
 void foo(int valor) {
@@ -61,3 +62,4 @@ int main(){
   foo(10);
   return 0;
 }
+```
