@@ -16,7 +16,7 @@
 
 ### The "call" stack
 
-_The call stack, execution stack, function stack, control stack, runtime stack or simply call stack is a dynamic data structure that stores information about the active subroutines of a running program. When we make a call to a function, a block at the top of the stack is reserved to store the local variables along with some data necessary to guarantee the proper functioning of the structure (such as the address to which the thread of execution will have to return). when the function ends). After returning, the stack block occupied by the call is freed so it can be used later if necessary._
+**_The call stack, execution stack, function stack, control stack, runtime stack or simply call stack is a dynamic data structure that stores information about the active subroutines of a running program. When we make a call to a function, a block at the top of the stack is reserved to store the local variables along with some data necessary to guarantee the proper functioning of the structure (such as the address to which the thread of execution will have to return). when the function ends). After returning, the stack block occupied by the call is freed so it can be used later if necessary._**
 
 **_Traducido del español:_**
 
