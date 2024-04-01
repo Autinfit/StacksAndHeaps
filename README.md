@@ -22,6 +22,8 @@
 
 **_Multiple execution stacks can exist in a program when it is multithreaded; Each thread has its own stack with which it will maintain control of its function calls._**
 
+![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/40786d04-df4c-40cb-b740-30586e0d339a)
+
 **_Traducido del español:_**
 
 ## Diferencia clave entre la memoria de pila y de montón
