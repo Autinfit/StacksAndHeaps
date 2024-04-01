@@ -45,3 +45,5 @@
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/6180a7d5-4014-4d91-a43b-49f597ff3f76)
 
 ## Ejemplo de heap vs stack
+
+Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan la pila y el heap:
