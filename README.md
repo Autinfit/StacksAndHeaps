@@ -12,7 +12,7 @@
 
 ## Other differences associated with Stack and Heap
 
-They are different data structures but, sometimes, it can be difficult to identify their differences, especially when you are just learning programming. In this post I will briefly explain the differences between both data structures.
+_They are different data structures but, sometimes, it can be difficult to identify their differences, especially when you are just learning programming. In this post I will briefly explain the differences between both data structures._
 
 **_Traducido del español:_**
 
