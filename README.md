@@ -20,7 +20,7 @@
 
 **_It is called execution stack because it is a data structure that works under the concept of L.I.F.O. (last in first out). This makes it easier to keep track of which blocks need to be released, since it will be the one at the top of the stack._**
 
-Multiple execution stacks can exist in a program when it is multithreaded; Each thread has its own stack with which it will maintain control of its function calls.
+_Multiple execution stacks can exist in a program when it is multithreaded; Each thread has its own stack with which it will maintain control of its function calls._
 
 **_Traducido del español:_**
 
