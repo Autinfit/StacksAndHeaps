@@ -24,7 +24,7 @@
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/9000bb50-38a4-4635-b9e2-99dd074e1d91)
 
-### The heap
+### The heap (Free Storage)
 
 **_Traducido del español:_**
 
