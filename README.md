@@ -28,7 +28,7 @@
 
 **_The free heap, free zone, free storage or heap is a dynamic data structure used to store running data. Unlike the execution stack, which only stores the variables declared in the blocks prior to their execution, the heap allows memory to be reserved dynamically, that is, it is responsible for making the "magic" of dynamic memory happen. Global and static variables are also stored in it._**
 
-As this data structure does not follow any methodology, it is a bit complicated to maintain control of the reserved memory blocks since spaces can be occupied and freed at any time.
+_As this data structure does not follow any methodology, it is a bit complicated to maintain control of the reserved memory blocks since spaces can be occupied and freed at any time._
 
 **_Traducido del español:_**
 
