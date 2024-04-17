@@ -30,6 +30,8 @@
 
 **_As this data structure does not follow any methodology, it is a bit complicated to maintain control of the reserved memory blocks since spaces can be occupied and freed at any time._**
 
+![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/6721c342-ab30-40c3-b8d2-ddfd75f6d4da)
+
 **_Traducido del español:_**
 
 ## Diferencia clave entre la memoria de pila y de montón
