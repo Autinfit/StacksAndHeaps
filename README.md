@@ -10,7 +10,7 @@
 - **_"Stack" does not require deallocating variables, while in "Heap" you do need to deallocate them._**
 - **_"Stack" allocation and deallocation are done by compiler instructions, while "Heap" allocation and deallocation are done by the programmer._**
 
-## Other differences associated with Stack and Heap
+## Other differences associated with "Stack" and Heap
 
 **_They are different data structures but, sometimes, it can be difficult to identify their differences, especially when you are just learning programming. In this post I will briefly explain the differences between both data structures._**
 
