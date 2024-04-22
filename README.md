@@ -39,7 +39,7 @@
 - **_"Stack" es una estructura de datos lineal, mientras que "Heap" es una estructura de datos más alta._**
 - **_La memoria Stack nunca se van fragmentando, mientras que la memoria Heap puede fragmentarse cuando los bloques de memoria se asignan primero y luego se liberan._**
 - **_"Stack" accede a variables locales solo mientras que "Heap" le permite acceder a variables de manera global._**
-- **_Las variables Stack no se pueden cambiar de tamaño, mientras que las variables de montón se pueden cambiar dicho tamaño._**
+- **_Las variables Stack no se pueden cambiar de tamaño, mientras que las variables Heap se pueden cambiar dicho tamaño._**
 - **_La memoria Stack se asigna en un bloque contiguo, mientras que la memoria Heap se asigna en cualquier orden aleatorio._**
 - **_"Stack" no requiere desasignar variables, mientras que en "Heap" sí se necesita desasignar éstas._**
 - **_La asignación y desasignación de la pila se realizan mediante instrucciones del compilador, mientras que la asignación y desasignación del montón las realiza el programador._**
