@@ -42,7 +42,7 @@
 - **_Las variables Stack no se pueden cambiar de tamaño, mientras que las variables Heap se pueden cambiar dicho tamaño._**
 - **_La memoria Stack se asigna en un bloque contiguo, mientras que la memoria Heap se asigna en cualquier orden aleatorio._**
 - **_"Stack" no requiere desasignar variables, mientras que en "Heap" sí se necesita desasignar éstas._**
-- **_La asignación y desasignación de la pila se realizan mediante instrucciones del compilador, mientras que la asignación y desasignación del montón las realiza el programador._**
+- **_La asignación y desasignación de un Stack se realizan mediante instrucciones del compilador, mientras que la asignación y desasignación del montón las realiza el programador._**
 
 ## Otras diferencias asociadas a Stack y Heap
 
