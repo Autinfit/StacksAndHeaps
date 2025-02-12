@@ -24,7 +24,7 @@
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/9000bb50-38a4-4635-b9e2-99dd074e1d91)
 
-### **_The heap (Free Storage)_**
+### **_The heap (Free Storage):_**
 
 **_The free Heap, free zone, free storage or heap is a dynamic data structure used to store running data. Unlike the execution stack, which only stores the variables declared in the blocks prior to their execution, the heap allows memory to be reserved dynamically, that is, it is responsible for making the "magic" of dynamic memory happen. Global and static variables are also stored in it._**
 
