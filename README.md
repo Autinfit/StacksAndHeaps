@@ -66,7 +66,7 @@
 
 ![image](https://github.com/Autinfit/StacksAndHeaps/assets/155406623/6180a7d5-4014-4d91-a43b-49f597ff3f76)
 
-## Ejemplo de heap vs stack
+## _Ejemplo de heap vs stack_
 
 **_Si compilas y ejecutas el siguiente ejemplo, podrás tener una idea general de cómo se comportan el stack y el heap:_**
 
