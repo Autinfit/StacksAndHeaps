@@ -44,7 +44,7 @@
 - **_"Stack" no requiere desasignar variables, mientras que en "Heap" sí se necesita desasignar éstas._**
 - **_La asignación y desasignación de un Stack se realizan mediante instrucciones del compilador, mientras que la asignación y desasignación de un Heap las realiza el programador._**
 
-## Otras diferencias asociadas a Stack y Heap
+## _Otras diferencias asociadas a Stack y Heap_
 
 **_Son estructuras de datos distintas pero, a veces, puede llegar a ser complicado identificar sus diferencias, principalmente cuando recién aprendes programación. En esta entrada te explicaré de forma breve las diferencia entre ambas estructuras de datos._**
 
