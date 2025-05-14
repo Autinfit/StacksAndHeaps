@@ -1,4 +1,4 @@
-# **_StacksAndHeaps_**
+# **_Stacks_AndHeaps_**
 
 ## **_Key Difference Between Stack and Heap Memory_**
 
