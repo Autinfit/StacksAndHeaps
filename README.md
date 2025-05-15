@@ -7,7 +7,7 @@
 - **_"Stack" accesses local variables only while "Heap" allows you to access variables globally._**
 - **_"Stack" variables cannot be resized, while "Heap" variables can be resized._**
 - **_"Stack" memory is allocated in a contiguous block, while "Heap" memory is allocated in any random order._**
-- **_"Stack" does not require deallocating variables, while in "Heap" you do need to deallocate them._**
+- **_"Stack" doesn't require deallocating variables, while in "Heap" you do need to deallocate them._**
 - **_"Stack" allocation and deallocation are done by compiler instructions, while "Heap" allocation and deallocation are done by the programmer._**
 
 ## **_Other differences associated with "Stack" and "Heap"_**
