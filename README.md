@@ -1,6 +1,6 @@
 # **_Stacks_&_Heaps_**
 
-## **_Key Difference Between Stack and Heap Memory_**
+## **_Key Difference Between Stack & Heap Memory_**
 
 - **_"Stack" is a linear data structure, while "Heap" is a higher data structure._**
 - **_"Stack" memory will never be fragmented, while "Heap" memory can become fragmented when memory blocks are first allocated and then freed._**
